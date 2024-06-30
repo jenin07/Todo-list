@@ -1,3 +1,65 @@
+
+## README
+
+# My Todo App
+
+This is a simple React Todo application that allows users to add, edit, delete, and complete todo items. The application also persists the todos in the browser's local storage.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/my-todo-app.git
+   cd my-todo-app
+   ```
+
+2. **Install dependencies:**
+
+   Make sure you have [Node.js](https://nodejs.org/) installed. Then, run the following command to install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+To run the application locally:
+
+```bash
+npm start
+```
+
+This will start the development server and open the application in your default web browser. If it doesn't open automatically, navigate to `http://localhost:3000` in your browser.
+
+## Features
+
+- Add new todo items with a title and description
+- Edit existing todo items
+- Delete todo items
+- Mark todo items as complete
+- View completed todo items
+- Persistent storage using local storage
+
+## Technologies
+
+- React
+- JavaScript
+- CSS
+- Local Storage
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
